@@ -20,3 +20,6 @@ exit
 
 <a href='https://github.com/ST10394146/Prog-part2'> Git</a>
 <img src="Screenshot (13).png" width='500px' height='500px'>
+<img src="Screenshot (14).png" width='500px' height='500px'>
+<img src="Screenshot (15).png" width='500px' height='500px'>
+
