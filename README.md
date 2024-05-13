@@ -19,4 +19,4 @@ clear data
 exit
 
 <a href='https://github.com/ST10394146/Prog-part2'> Git</a>
-<img src="Screen(13).png" width='500px' height='500px'>
+<img src="Screenshot(13).png" width='500px' height='500px'>
